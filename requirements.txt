@@ -1,0 +1,3 @@
+# No external python pip packages are strictly required if Python's built-in 
+# subprocess and os modules are used to interface directly with the FFmpeg binary.
+# Ensure 'ffmpeg' and 'ffprobe' are installed on your system and added to PATH.

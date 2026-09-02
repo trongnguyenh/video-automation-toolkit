@@ -1,0 +1,21 @@
+{
+  "paths": {
+    "vo_file": "assets/audio/voiceover.mp3",
+    "bgm_file": "assets/audio/background_music.mp3",
+    "base_video": "assets/images/base_footage.mp4",
+    "logo_file": "assets/images/logo.png",
+    "cta_file": "assets/images/cta_button.png",
+    "subs_file": "assets/fonts/captions.ass",
+    "output_dir": "outputs/"
+  },
+  "audio": {
+    "bgm_volume": 0.2,
+    "dropout_transition": 2
+  },
+  "video": {
+    "logo_scale": "120:-1",
+    "logo_position": "10:10",
+    "cta_scale": "300:-1",
+    "cta_position": "(W-w)/2:H-h-50"
+  }
+}
